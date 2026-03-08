@@ -264,6 +264,9 @@
       <HintPath>D:\SteamLibrary\steamapps\common\RUMBLE\MelonLoader\Il2CppAssemblies\UnityEngine.VFXModule.dll</HintPath>
     </Reference>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include=".gitignore" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>xcopy "C:\RumbleStats\bin\Debug\RumbleStats.dll" "E:\SteamLibrary\steamapps\common\RUMBLE\Mods\" /Y
