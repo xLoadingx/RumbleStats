@@ -1,0 +1,2 @@
+C:\RumbleDarkMode\obj\Debug\RumbleDarkMode.csproj.AssemblyReference.cache
+C:\RumbleDarkMode\obj\Debug\RumbleDarkMode.csproj.CoreCompileInputs.cache

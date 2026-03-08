@@ -1,0 +1,10 @@
+{
+  "name": "RumbleStats",
+  "version_number": "1.0.4",
+  "website_url": "",
+  "description": "A mod that allows the saving of stats from other mods.",
+  "dependencies": [
+	"UlvakSkillz-RumbleModdingAPI-3.2.8",
+	"Baumritter-RumbleModUI-2.1.2"
+  ]
+}

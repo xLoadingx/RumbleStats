@@ -1,0 +1,189 @@
+C:\InGameClock - Copy\bin\Debug\BeltSkins.dll
+C:\InGameClock - Copy\bin\Debug\BeltSkins.pdb
+C:\InGameClock - Copy\bin\Debug\0Harmony.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppInterop.Runtime.dll
+C:\InGameClock - Copy\bin\Debug\Il2Cppmscorlib.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppRUMBLE.Runtime.dll
+C:\InGameClock - Copy\bin\Debug\MelonLoader.dll
+C:\InGameClock - Copy\bin\Debug\RumbleModdingAPI.dll
+C:\InGameClock - Copy\bin\Debug\Unity.TextMeshPro.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.CoreModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\InGameClock - Copy\bin\Debug\Mono.Cecil.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppInterop.Common.dll
+C:\InGameClock - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\InGameClock - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.AnimationModule.dll
+C:\InGameClock - Copy\bin\Debug\Unity.XR.OpenXR.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppBucketheadEntertainment.Plugins.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppPhotonRealtime.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppPhotonUnityNetworking.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppPhoton3Unity3D.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppPlayFab.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppPhotonChat.dll
+C:\InGameClock - Copy\bin\Debug\Unity.Timeline.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.VFXModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.XRModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.DirectorModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.AudioModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppRUMBLE.Plugins.dll
+C:\InGameClock - Copy\bin\Debug\Unity.InputSystem.dll
+C:\InGameClock - Copy\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppSystem.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppSmartLocalization.dll
+C:\InGameClock - Copy\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.UIModule.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppRUMBLE.Rendering.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppPhotonVoice.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppRUMBLE.Platform.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppRUMBLE.Platform.Info.Steam.dll
+C:\InGameClock - Copy\bin\Debug\MonoMod.Utils.dll
+C:\InGameClock - Copy\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\InGameClock - Copy\bin\Debug\bHapticsLib.dll
+C:\InGameClock - Copy\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\InGameClock - Copy\bin\Debug\AssetsTools.NET.dll
+C:\InGameClock - Copy\bin\Debug\Tomlet.dll
+C:\InGameClock - Copy\bin\Debug\AsmResolver.DotNet.dll
+C:\InGameClock - Copy\bin\Debug\AsmResolver.PE.dll
+C:\InGameClock - Copy\bin\Debug\AsmResolver.dll
+C:\InGameClock - Copy\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\InGameClock - Copy\bin\Debug\Mono.Cecil.Mdb.dll
+C:\InGameClock - Copy\bin\Debug\Mono.Cecil.Pdb.dll
+C:\InGameClock - Copy\bin\Debug\Mono.Cecil.Rocks.dll
+C:\InGameClock - Copy\bin\Debug\AsmResolver.PE.File.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppSystem.Core.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\InGameClock - Copy\bin\Debug\Iced.dll
+C:\InGameClock - Copy\bin\Debug\Unity.XR.Management.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppSystem.Numerics.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.TerrainModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.ClothModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.AIModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.InputModule.dll
+C:\InGameClock - Copy\bin\Debug\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\InGameClock - Copy\bin\Debug\Unity.Mathematics.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppMono.Security.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppSystem.Configuration.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppSystem.Xml.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppPhotonVoice.API.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppRUMBLE.Platform.Info.dll
+C:\InGameClock - Copy\bin\Debug\Il2Cppcom.rlabrecque.steamworks.net.dll
+C:\InGameClock - Copy\bin\Debug\WebSocketDotNet.dll
+C:\InGameClock - Copy\bin\Debug\System.Text.Json.dll
+C:\InGameClock - Copy\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\InGameClock - Copy\bin\Debug\MelonLoader.xml
+C:\InGameClock - Copy\obj\Debug\BeltSkins.csproj.AssemblyReference.cache
+C:\InGameClock - Copy\obj\Debug\BeltSkins.csproj.CoreCompileInputs.cache
+C:\InGameClock - Copy\obj\Debug\BeltSkins.csproj.Up2Date
+C:\InGameClock - Copy\obj\Debug\BeltSkins.dll
+C:\InGameClock - Copy\obj\Debug\BeltSkins.pdb
+C:\InGameClock - Copy\bin\Debug\UnityEngine.UI.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.UIElementsNativeModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\BeltSkins\bin\Debug\BeltSkins.dll
+C:\BeltSkins\bin\Debug\BeltSkins.pdb
+C:\BeltSkins\bin\Debug\0Harmony.dll
+C:\BeltSkins\bin\Debug\Il2CppInterop.Runtime.dll
+C:\BeltSkins\bin\Debug\Il2Cppmscorlib.dll
+C:\BeltSkins\bin\Debug\Il2CppRUMBLE.Runtime.dll
+C:\BeltSkins\bin\Debug\MelonLoader.dll
+C:\BeltSkins\bin\Debug\RumbleModdingAPI.dll
+C:\BeltSkins\bin\Debug\Unity.TextMeshPro.dll
+C:\BeltSkins\bin\Debug\UnityEngine.CoreModule.dll
+C:\BeltSkins\bin\Debug\UnityEngine.dll
+C:\BeltSkins\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\BeltSkins\bin\Debug\Mono.Cecil.dll
+C:\BeltSkins\bin\Debug\Il2CppInterop.Common.dll
+C:\BeltSkins\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BeltSkins\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\BeltSkins\bin\Debug\UnityEngine.AnimationModule.dll
+C:\BeltSkins\bin\Debug\Unity.XR.OpenXR.dll
+C:\BeltSkins\bin\Debug\Il2CppBucketheadEntertainment.Plugins.dll
+C:\BeltSkins\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\BeltSkins\bin\Debug\Il2CppPhotonRealtime.dll
+C:\BeltSkins\bin\Debug\Il2CppPhotonUnityNetworking.dll
+C:\BeltSkins\bin\Debug\Il2CppPhoton3Unity3D.dll
+C:\BeltSkins\bin\Debug\Il2CppPlayFab.dll
+C:\BeltSkins\bin\Debug\Il2CppPhotonChat.dll
+C:\BeltSkins\bin\Debug\Unity.Timeline.dll
+C:\BeltSkins\bin\Debug\UnityEngine.VFXModule.dll
+C:\BeltSkins\bin\Debug\UnityEngine.XRModule.dll
+C:\BeltSkins\bin\Debug\UnityEngine.DirectorModule.dll
+C:\BeltSkins\bin\Debug\UnityEngine.AudioModule.dll
+C:\BeltSkins\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\BeltSkins\bin\Debug\Il2CppRUMBLE.Plugins.dll
+C:\BeltSkins\bin\Debug\Unity.InputSystem.dll
+C:\BeltSkins\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+C:\BeltSkins\bin\Debug\Il2CppSystem.dll
+C:\BeltSkins\bin\Debug\Il2CppSmartLocalization.dll
+C:\BeltSkins\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\BeltSkins\bin\Debug\UnityEngine.UIModule.dll
+C:\BeltSkins\bin\Debug\Il2CppRUMBLE.Rendering.dll
+C:\BeltSkins\bin\Debug\Il2CppPhotonVoice.dll
+C:\BeltSkins\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\BeltSkins\bin\Debug\Il2CppRUMBLE.Platform.dll
+C:\BeltSkins\bin\Debug\Il2CppRUMBLE.Platform.Info.Steam.dll
+C:\BeltSkins\bin\Debug\MonoMod.Utils.dll
+C:\BeltSkins\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\BeltSkins\bin\Debug\bHapticsLib.dll
+C:\BeltSkins\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\BeltSkins\bin\Debug\AssetsTools.NET.dll
+C:\BeltSkins\bin\Debug\Tomlet.dll
+C:\BeltSkins\bin\Debug\AsmResolver.DotNet.dll
+C:\BeltSkins\bin\Debug\AsmResolver.PE.dll
+C:\BeltSkins\bin\Debug\AsmResolver.dll
+C:\BeltSkins\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\BeltSkins\bin\Debug\Mono.Cecil.Mdb.dll
+C:\BeltSkins\bin\Debug\Mono.Cecil.Pdb.dll
+C:\BeltSkins\bin\Debug\Mono.Cecil.Rocks.dll
+C:\BeltSkins\bin\Debug\AsmResolver.PE.File.dll
+C:\BeltSkins\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\BeltSkins\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\BeltSkins\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\BeltSkins\bin\Debug\Il2CppSystem.Core.dll
+C:\BeltSkins\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\BeltSkins\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\BeltSkins\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\BeltSkins\bin\Debug\Iced.dll
+C:\BeltSkins\bin\Debug\Unity.XR.Management.dll
+C:\BeltSkins\bin\Debug\Il2CppSystem.Numerics.dll
+C:\BeltSkins\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\BeltSkins\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\BeltSkins\bin\Debug\UnityEngine.TerrainModule.dll
+C:\BeltSkins\bin\Debug\UnityEngine.ClothModule.dll
+C:\BeltSkins\bin\Debug\UnityEngine.AIModule.dll
+C:\BeltSkins\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\BeltSkins\bin\Debug\UnityEngine.InputModule.dll
+C:\BeltSkins\bin\Debug\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\BeltSkins\bin\Debug\Unity.Mathematics.dll
+C:\BeltSkins\bin\Debug\Il2CppMono.Security.dll
+C:\BeltSkins\bin\Debug\Il2CppSystem.Configuration.dll
+C:\BeltSkins\bin\Debug\Il2CppSystem.Xml.dll
+C:\BeltSkins\bin\Debug\Il2CppPhotonVoice.API.dll
+C:\BeltSkins\bin\Debug\Il2CppRUMBLE.Platform.Info.dll
+C:\BeltSkins\bin\Debug\Il2Cppcom.rlabrecque.steamworks.net.dll
+C:\BeltSkins\bin\Debug\WebSocketDotNet.dll
+C:\BeltSkins\bin\Debug\System.Text.Json.dll
+C:\BeltSkins\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\BeltSkins\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\BeltSkins\bin\Debug\MelonLoader.xml
+C:\BeltSkins\obj\Debug\BeltSkins.csproj.AssemblyReference.cache
+C:\BeltSkins\obj\Debug\BeltSkins.csproj.CoreCompileInputs.cache
+C:\BeltSkins\obj\Debug\BeltSkins.csproj.Up2Date
+C:\BeltSkins\obj\Debug\BeltSkins.dll
+C:\BeltSkins\obj\Debug\BeltSkins.pdb
+C:\BeltSkins\bin\Debug\ModUI.dll

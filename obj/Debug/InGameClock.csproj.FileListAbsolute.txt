@@ -1,0 +1,284 @@
+C:\TetrisMoves - Copy\bin\Debug\TetrisMoves.dll
+C:\TetrisMoves - Copy\bin\Debug\TetrisMoves.pdb
+C:\TetrisMoves - Copy\bin\Debug\0Harmony.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppBucketheadEntertainment.Plugins.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppInterop.Runtime.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2Cppmscorlib.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppRUMBLE.Runtime.dll
+C:\TetrisMoves - Copy\bin\Debug\MelonLoader.dll
+C:\TetrisMoves - Copy\bin\Debug\ModUI.dll
+C:\TetrisMoves - Copy\bin\Debug\RumbleModdingAPI.dll
+C:\TetrisMoves - Copy\bin\Debug\Unity.InputSystem.dll
+C:\TetrisMoves - Copy\bin\Debug\Unity.TextMeshPro.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.CoreModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.InputModule.dll
+C:\TetrisMoves - Copy\bin\Debug\Mono.Cecil.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppInterop.Common.dll
+C:\TetrisMoves - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TetrisMoves - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.AnimationModule.dll
+C:\TetrisMoves - Copy\bin\Debug\Unity.XR.OpenXR.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppPhotonRealtime.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppPhotonUnityNetworking.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppPhoton3Unity3D.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppPlayFab.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppPhotonChat.dll
+C:\TetrisMoves - Copy\bin\Debug\Unity.Timeline.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.VFXModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.XRModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.DirectorModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.AudioModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppRUMBLE.Plugins.dll
+C:\TetrisMoves - Copy\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppSystem.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppSmartLocalization.dll
+C:\TetrisMoves - Copy\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.UIModule.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppRUMBLE.Rendering.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppPhotonVoice.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppRUMBLE.Platform.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppRUMBLE.Platform.Info.Steam.dll
+C:\TetrisMoves - Copy\bin\Debug\MonoMod.Utils.dll
+C:\TetrisMoves - Copy\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\TetrisMoves - Copy\bin\Debug\bHapticsLib.dll
+C:\TetrisMoves - Copy\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\TetrisMoves - Copy\bin\Debug\AssetsTools.NET.dll
+C:\TetrisMoves - Copy\bin\Debug\Tomlet.dll
+C:\TetrisMoves - Copy\bin\Debug\AsmResolver.DotNet.dll
+C:\TetrisMoves - Copy\bin\Debug\AsmResolver.PE.dll
+C:\TetrisMoves - Copy\bin\Debug\AsmResolver.dll
+C:\TetrisMoves - Copy\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\TetrisMoves - Copy\bin\Debug\Mono.Cecil.Mdb.dll
+C:\TetrisMoves - Copy\bin\Debug\Mono.Cecil.Pdb.dll
+C:\TetrisMoves - Copy\bin\Debug\Mono.Cecil.Rocks.dll
+C:\TetrisMoves - Copy\bin\Debug\AsmResolver.PE.File.dll
+C:\TetrisMoves - Copy\bin\Debug\System.Collections.Immutable.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppSystem.Core.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnhollowerBaseLib.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\TetrisMoves - Copy\bin\Debug\Iced.dll
+C:\TetrisMoves - Copy\bin\Debug\Unity.XR.Management.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppSystem.Numerics.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.TerrainModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.ClothModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.AIModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\TetrisMoves - Copy\bin\Debug\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\TetrisMoves - Copy\bin\Debug\Unity.Mathematics.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppMono.Security.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppSystem.Configuration.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppSystem.Xml.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppPhotonVoice.API.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2CppRUMBLE.Platform.Info.dll
+C:\TetrisMoves - Copy\bin\Debug\Il2Cppcom.rlabrecque.steamworks.net.dll
+C:\TetrisMoves - Copy\bin\Debug\WebSocketDotNet.dll
+C:\TetrisMoves - Copy\bin\Debug\System.Text.Json.dll
+C:\TetrisMoves - Copy\bin\Debug\System.Text.Encodings.Web.dll
+C:\TetrisMoves - Copy\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.UIElementsNativeModule.dll
+C:\TetrisMoves - Copy\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\TetrisMoves - Copy\bin\Debug\System.Buffers.dll
+C:\TetrisMoves - Copy\bin\Debug\MelonLoader.xml
+C:\TetrisMoves - Copy\obj\Debug\InGameClock.csproj.AssemblyReference.cache
+C:\TetrisMoves - Copy\obj\Debug\InGameClock.csproj.CoreCompileInputs.cache
+C:\TetrisMoves - Copy\obj\Debug\InGameClock.csproj.CopyComplete
+C:\TetrisMoves - Copy\obj\Debug\TetrisMoves.dll
+C:\TetrisMoves - Copy\obj\Debug\TetrisMoves.pdb
+C:\InGameClock\obj\Debug\InGameClock.csproj.AssemblyReference.cache
+C:\InGameClock\obj\Debug\InGameClock.csproj.CoreCompileInputs.cache
+C:\InGameClock\bin\Debug\0Harmony.dll
+C:\InGameClock\bin\Debug\Il2CppBucketheadEntertainment.Plugins.dll
+C:\InGameClock\bin\Debug\Il2CppInterop.Runtime.dll
+C:\InGameClock\bin\Debug\Il2Cppmscorlib.dll
+C:\InGameClock\bin\Debug\Il2CppRUMBLE.Runtime.dll
+C:\InGameClock\bin\Debug\MelonLoader.dll
+C:\InGameClock\bin\Debug\RumbleModdingAPI.dll
+C:\InGameClock\bin\Debug\Unity.InputSystem.dll
+C:\InGameClock\bin\Debug\Unity.TextMeshPro.dll
+C:\InGameClock\bin\Debug\UnityEngine.CoreModule.dll
+C:\InGameClock\bin\Debug\UnityEngine.dll
+C:\InGameClock\bin\Debug\UnityEngine.InputModule.dll
+C:\InGameClock\bin\Debug\Mono.Cecil.dll
+C:\InGameClock\bin\Debug\Il2CppInterop.Common.dll
+C:\InGameClock\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\InGameClock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\InGameClock\bin\Debug\UnityEngine.AnimationModule.dll
+C:\InGameClock\bin\Debug\Unity.XR.OpenXR.dll
+C:\InGameClock\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\InGameClock\bin\Debug\Il2CppPhotonRealtime.dll
+C:\InGameClock\bin\Debug\Il2CppPhotonUnityNetworking.dll
+C:\InGameClock\bin\Debug\Il2CppPhoton3Unity3D.dll
+C:\InGameClock\bin\Debug\Il2CppPlayFab.dll
+C:\InGameClock\bin\Debug\Il2CppPhotonChat.dll
+C:\InGameClock\bin\Debug\Unity.Timeline.dll
+C:\InGameClock\bin\Debug\UnityEngine.VFXModule.dll
+C:\InGameClock\bin\Debug\UnityEngine.XRModule.dll
+C:\InGameClock\bin\Debug\UnityEngine.DirectorModule.dll
+C:\InGameClock\bin\Debug\UnityEngine.AudioModule.dll
+C:\InGameClock\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\InGameClock\bin\Debug\Il2CppRUMBLE.Plugins.dll
+C:\InGameClock\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+C:\InGameClock\bin\Debug\Il2CppSystem.dll
+C:\InGameClock\bin\Debug\Il2CppSmartLocalization.dll
+C:\InGameClock\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\InGameClock\bin\Debug\UnityEngine.UIModule.dll
+C:\InGameClock\bin\Debug\Il2CppRUMBLE.Rendering.dll
+C:\InGameClock\bin\Debug\Il2CppPhotonVoice.dll
+C:\InGameClock\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\InGameClock\bin\Debug\Il2CppRUMBLE.Platform.dll
+C:\InGameClock\bin\Debug\Il2CppRUMBLE.Platform.Info.Steam.dll
+C:\InGameClock\bin\Debug\MonoMod.Utils.dll
+C:\InGameClock\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\InGameClock\bin\Debug\bHapticsLib.dll
+C:\InGameClock\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\InGameClock\bin\Debug\AssetsTools.NET.dll
+C:\InGameClock\bin\Debug\Tomlet.dll
+C:\InGameClock\bin\Debug\AsmResolver.DotNet.dll
+C:\InGameClock\bin\Debug\AsmResolver.PE.dll
+C:\InGameClock\bin\Debug\AsmResolver.dll
+C:\InGameClock\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\InGameClock\bin\Debug\Mono.Cecil.Mdb.dll
+C:\InGameClock\bin\Debug\Mono.Cecil.Pdb.dll
+C:\InGameClock\bin\Debug\Mono.Cecil.Rocks.dll
+C:\InGameClock\bin\Debug\AsmResolver.PE.File.dll
+C:\InGameClock\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\InGameClock\bin\Debug\Il2CppSystem.Core.dll
+C:\InGameClock\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\InGameClock\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\InGameClock\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\InGameClock\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\InGameClock\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\InGameClock\bin\Debug\Iced.dll
+C:\InGameClock\bin\Debug\Unity.XR.Management.dll
+C:\InGameClock\bin\Debug\Il2CppSystem.Numerics.dll
+C:\InGameClock\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\InGameClock\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\InGameClock\bin\Debug\UnityEngine.TerrainModule.dll
+C:\InGameClock\bin\Debug\UnityEngine.ClothModule.dll
+C:\InGameClock\bin\Debug\UnityEngine.AIModule.dll
+C:\InGameClock\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\InGameClock\bin\Debug\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\InGameClock\bin\Debug\Unity.Mathematics.dll
+C:\InGameClock\bin\Debug\Il2CppMono.Security.dll
+C:\InGameClock\bin\Debug\Il2CppSystem.Configuration.dll
+C:\InGameClock\bin\Debug\Il2CppSystem.Xml.dll
+C:\InGameClock\bin\Debug\Il2CppPhotonVoice.API.dll
+C:\InGameClock\bin\Debug\Il2CppRUMBLE.Platform.Info.dll
+C:\InGameClock\bin\Debug\Il2Cppcom.rlabrecque.steamworks.net.dll
+C:\InGameClock\bin\Debug\WebSocketDotNet.dll
+C:\InGameClock\bin\Debug\System.Text.Json.dll
+C:\InGameClock\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\InGameClock\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\InGameClock\bin\Debug\MelonLoader.xml
+C:\InGameClock\obj\Debug\InGameCl.A1C12555.Up2Date
+C:\InGameClock\bin\Debug\InGameClock.dll
+C:\InGameClock\bin\Debug\InGameClock.pdb
+C:\InGameClock\obj\Debug\InGameClock.dll
+C:\InGameClock\obj\Debug\InGameClock.pdb
+C:\InGameClock\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\InGameClock - Copy\bin\Debug\BeltSkins.dll
+C:\InGameClock - Copy\bin\Debug\BeltSkins.pdb
+C:\InGameClock - Copy\bin\Debug\0Harmony.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppInterop.Runtime.dll
+C:\InGameClock - Copy\bin\Debug\Il2Cppmscorlib.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppRUMBLE.Runtime.dll
+C:\InGameClock - Copy\bin\Debug\MelonLoader.dll
+C:\InGameClock - Copy\bin\Debug\RumbleModdingAPI.dll
+C:\InGameClock - Copy\bin\Debug\Unity.TextMeshPro.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.CoreModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\InGameClock - Copy\bin\Debug\Mono.Cecil.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppInterop.Common.dll
+C:\InGameClock - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\InGameClock - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.AnimationModule.dll
+C:\InGameClock - Copy\bin\Debug\Unity.XR.OpenXR.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppBucketheadEntertainment.Plugins.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppPhotonRealtime.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppPhotonUnityNetworking.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppPhoton3Unity3D.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppPlayFab.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppPhotonChat.dll
+C:\InGameClock - Copy\bin\Debug\Unity.Timeline.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.VFXModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.XRModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.DirectorModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.AudioModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppRUMBLE.Plugins.dll
+C:\InGameClock - Copy\bin\Debug\Unity.InputSystem.dll
+C:\InGameClock - Copy\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppSystem.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppSmartLocalization.dll
+C:\InGameClock - Copy\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.UIModule.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppRUMBLE.Rendering.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppPhotonVoice.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppRUMBLE.Platform.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppRUMBLE.Platform.Info.Steam.dll
+C:\InGameClock - Copy\bin\Debug\MonoMod.Utils.dll
+C:\InGameClock - Copy\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\InGameClock - Copy\bin\Debug\bHapticsLib.dll
+C:\InGameClock - Copy\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\InGameClock - Copy\bin\Debug\AssetsTools.NET.dll
+C:\InGameClock - Copy\bin\Debug\Tomlet.dll
+C:\InGameClock - Copy\bin\Debug\AsmResolver.DotNet.dll
+C:\InGameClock - Copy\bin\Debug\AsmResolver.PE.dll
+C:\InGameClock - Copy\bin\Debug\AsmResolver.dll
+C:\InGameClock - Copy\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+C:\InGameClock - Copy\bin\Debug\Mono.Cecil.Mdb.dll
+C:\InGameClock - Copy\bin\Debug\Mono.Cecil.Pdb.dll
+C:\InGameClock - Copy\bin\Debug\Mono.Cecil.Rocks.dll
+C:\InGameClock - Copy\bin\Debug\AsmResolver.PE.File.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppSystem.Core.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\InGameClock - Copy\bin\Debug\Iced.dll
+C:\InGameClock - Copy\bin\Debug\Unity.XR.Management.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppSystem.Numerics.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.TerrainModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.ClothModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.AIModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.InputModule.dll
+C:\InGameClock - Copy\bin\Debug\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\InGameClock - Copy\bin\Debug\Unity.Mathematics.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppMono.Security.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppSystem.Configuration.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppSystem.Xml.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppPhotonVoice.API.dll
+C:\InGameClock - Copy\bin\Debug\Il2CppRUMBLE.Platform.Info.dll
+C:\InGameClock - Copy\bin\Debug\Il2Cppcom.rlabrecque.steamworks.net.dll
+C:\InGameClock - Copy\bin\Debug\WebSocketDotNet.dll
+C:\InGameClock - Copy\bin\Debug\System.Text.Json.dll
+C:\InGameClock - Copy\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+C:\InGameClock - Copy\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\InGameClock - Copy\bin\Debug\MelonLoader.xml
+C:\InGameClock - Copy\obj\Debug\InGameClock.csproj.AssemblyReference.cache
+C:\InGameClock - Copy\obj\Debug\InGameClock.csproj.CoreCompileInputs.cache
+C:\InGameClock - Copy\obj\Debug\InGameCl.A1C12555.Up2Date
+C:\InGameClock - Copy\obj\Debug\BeltSkins.dll
+C:\InGameClock - Copy\obj\Debug\BeltSkins.pdb
